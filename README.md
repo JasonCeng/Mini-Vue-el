@@ -1,4 +1,4 @@
-# 操作日志
+# Mini-Vue-el
 
 ## 前言
 
@@ -20,7 +20,7 @@
 
 * babel
 
-## ## 一、初始化
+## 一、初始化
 1.安装vue-cli：
 ```bash
 npm install vue-cli -g
@@ -38,7 +38,7 @@ npm install cnpm -g --registry=https://registry.npm.taobao.org
 
 4.运行项目：
 ```bash
-cd my-vue-project 
+cd my-vue-project
 
 npm run dev
 ```
